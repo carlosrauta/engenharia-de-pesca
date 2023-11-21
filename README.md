@@ -27,8 +27,8 @@ Curso | Livro Recomendado
 [Mecânica Clássica](https://www.youtube.com/playlist?list=PLAudUnJeNg4vmlyuv__uBgdOkzw4VSrcJ) | H. Moysés. Nussenzveig. Curso de física básica, 1: mecânica.
 [Álgebra Linear](https://www.youtube.com/playlist?list=PLxI8Can9yAHdUtWDKtTA9AmuICNyX9EIr) | ANTON, Howard; RORRES, Chris. Álgebra linear com aplicações.
 [Química Orgânica](https://www.youtube.com/playlist?list=PLxI8Can9yAHf0GaPrTFHw3MF19Q53LIZI) | MCMURRY, John. Química orgânica: volume 1. 
-[Introdução à Programação com Python I](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) | [DOWNEY, Allen B. Pense em Python.](https://penseallen.github.io/PensePython2e/)
-[Introdução à Programação com Python II](https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2) | [DOWNEY, Allen B. Pense em Python.](https://penseallen.github.io/PensePython2e/)
+[Programação com Python I](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) | [DOWNEY, Allen B. Pense em Python.](https://penseallen.github.io/PensePython2e/)
+[Programação com Python II](https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2) | [DOWNEY, Allen B. Pense em Python.](https://penseallen.github.io/PensePython2e/)
 [Cálculo III](https://www.youtube.com/playlist?list=PLFBA21F349930F92F) | BOYCE, W. E.; DIPRIMA, R. C. Equações diferenciais elementares e problemas de valores de contorno.
 [Zoologia dos Vertebrados](https://www.youtube.com/playlist?list=PLxI8Can9yAHcopx1fQDk5J3ygiJRsYaQp) | -
 [Zoologia dos Invertebrados](https://www.youtube.com/playlist?list=PLxI8Can9yAHcy25cft4jD8tRvHiHuv_pd) | PECHENIK, Jan A. Biologia dos invertebrados.
@@ -49,7 +49,7 @@ Curso | Livro Recomendado
 [Administração Financeira](https://www.coursera.org/learn/administracao-financeira) | -
 [Pesquisa Operacional](https://www.youtube.com/playlist?list=PLxI8Can9yAHfF7UUE4iyn0ZwKNrkft7nq) | Colin C. Emerson. Pesquisa Operacional: 170 Aplicações em Estratégia, Finanças, Logística, Produção, Marketing e Vendas.
 [Gestão de Projetos de Engenharia](https://www.coursera.org/specializations/engineering-project-management) | -
-[Grandes ecossistemas marinhos: Avaliação e Gestão](https://www.coursera.org/learn/large-marine-ecosystems) | -
+[Grandes Ecossistemas Marinhos: Avaliação e Gestão](https://www.coursera.org/learn/large-marine-ecosystems) | -
 [Máquinas Térmicas e Motores](https://www.youtube.com/playlist?list=PL2Vvr2Agey6RY-OJEFQJthqZs66MO4ZYX) | -
 [Economia do Meio Ambiente](https://www.youtube.com/@economiadomeioambiente4692/videos) | -
 [Genética](https://www.youtube.com/playlist?list=PLxI8Can9yAHcMkgPplY4tRVkTWd11Kukj) | -
