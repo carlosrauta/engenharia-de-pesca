@@ -22,7 +22,7 @@ Curso | Livro Recomendado
 [Cálculo I](https://www.youtube.com/playlist?list=PL2D9B691A704C6F7B) | Stewart, James. Cálculo, volume 1. 
 [Ecologia](https://www.youtube.com/playlist?list=PLxI8Can9yAHdcNx2ZVBgz61DTqVBQXGI-) | CAIN, Michael L; BOWMAN, William D; HACKER, Sally D. Ecologia.
 [Ética e Moral](https://www.youtube.com/playlist?list=PLEN09sOf6M1NXe94zC4yggvhi5XYBcALx) | -
-[Quimíca Geral](https://www.youtube.com/playlist?list=PLAudUnJeNg4vPBwTS8TXgo7mp-3cENkPs) | ATKINS, P. W JONES, Loretta. Princípios de química: questionando a vida moderna e o meio ambiente.
+[Química Geral](https://www.youtube.com/playlist?list=PLAudUnJeNg4vPBwTS8TXgo7mp-3cENkPs) | ATKINS, P. W JONES, Loretta. Princípios de química: questionando a vida moderna e o meio ambiente.
 [Cálculo II](https://www.youtube.com/playlist?list=PLxI8Can9yAHeZfF4HwiVmv4D6n3acKLER) | Stewart, James. Cálculo, volume 2.
 [Mecânica Clássica](https://www.youtube.com/playlist?list=PLAudUnJeNg4vmlyuv__uBgdOkzw4VSrcJ) | H. Moysés. Nussenzveig. Curso de física básica, 1: mecânica.
 [Álgebra Linear](https://www.youtube.com/playlist?list=PLxI8Can9yAHdUtWDKtTA9AmuICNyX9EIr) | ANTON, Howard; RORRES, Chris. Álgebra linear com aplicações.
