@@ -18,7 +18,7 @@ Existem diversas formas de contribuir com o projeto:
 OBS: Nem todas as disciplinas estudadas no Curso de Engenharia de Pesca possuem materiais disponíveis na internet de forma gratuita, pedagógica e de qualidade, e, portanto, não puderam ser incluídas nesse repositório. Caso surja algum material online essas disciplinas aqui serão incluídas.
 
 Curso | Livro Recomendado
-:--
+:-- | :--:
 [Cálculo I](https://www.youtube.com/playlist?list=PL2D9B691A704C6F7B) | Stewart, James. Cálculo, volume 1. 
 [Ecologia](https://www.youtube.com/playlist?list=PLxI8Can9yAHdcNx2ZVBgz61DTqVBQXGI-) | CAIN, Michael L; BOWMAN, William D; HACKER, Sally D. Ecologia.
 [Ética e Moral](https://www.youtube.com/playlist?list=PLEN09sOf6M1NXe94zC4yggvhi5XYBcALx) | -
