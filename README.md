@@ -2,20 +2,20 @@
 
 Inspirado na **[Universidade Brasileira Livre](https://ulivre.dev/)**.
 
-Esse repositório contém conteúdos que seriam vistos em um Curso de Engenharia de Pesca e materiais adicionais que não são comuns de serem ministradas na graduação, mas que são comuns à Engenharia. É voltado para o aluno autodidata, capaz de aprender o material sem a colaboração direta de um professor. Caso o leitor não tenha experiencia em estudar de forma efetiva, recomendo que assista o curso [Aprendendo a aprender](https://pt.coursera.org/learn/aprender). 
+Esse repositório contém conteúdos que seriam vistos em um Curso de Engenharia de Pesca e materiais adicionais que não são comuns de serem ministrados na graduação, mas que são comuns à Engenharia. É voltado para o aluno autodidata, capaz de aprender o material sem a colaboração direta de um professor. Caso o leitor não tenha experiência em estudar de forma efetiva, recomendo que assista o curso [Aprendendo a aprender](https://pt.coursera.org/learn/aprender). 
 
 ## Como contribuir
 
 Existem diversas formas de contribuir com o projeto:
 
+* Você pode marcar com uma estrela ('Starring') o repositório.
 * Caso encontre erros ou frases mal formuladas que podem gerar uma incompreensão do leitor, abra um Pull Request ou então abra uma issue para que a correção possa ser feita. Sua contribuição é muito importante e bem-vinda para que possamos aprimorar o conteúdo do repositório. 
 * Ajude a divulgar esse projeto para mais pessoas. Mande o link do repositório para outras pessoas através de grupos, redes sociais, bate-papo e outros meios sempre que tiver oportunidade.
 * Caso conheça conteúdos relevantes e gratuitos em Português ou legendados em língua portuguesa do Curso de Engenharia de Pesca e não consta no projeto, abra uma issue dizendo mais a respeito. Se você for criador de conteúdo sobre temas relacionados à Engenharia de Pesca e deseja ter algum material incluso no projeto, abra uma issue para que possamos ver como ajudar.
-* Você pode marcar com uma estrela ('Starring') o repositório.
 
 ## Formação do Curso de Engenharia de Pesca
 
-OBS: Nem todas as disciplinas estudadas no Curso de Engenharia de Pesca possuem materiais disponíveis na internet de forma gratuita, pedagógica e de qualidade, e, portanto, não puderam ser incluídas nesse repositório. Caso surja algum material online essas disciplinas aqui serão incluídas.
+OBS: Nem todas as disciplinas estudadas no Curso de Engenharia de Pesca possuem materiais disponíveis na internet de forma gratuita, pedagógica e de qualidade, e, portanto, não puderam ser incluídas nesse repositório. 
 
 Curso | Livro Recomendado
 :-- | :--:
@@ -39,7 +39,7 @@ Curso | Livro Recomendado
 [Introdução à Bioquímica](https://www.youtube.com/playlist?list=PLAudUnJeNg4sJXpT-KXR_vVxG7ipT9e1Z) | NELSON, David L.; COX, Michael M. Princípios de bioquímica de Lehninger.
 [Biotecnologia de Algas](https://www.coursera.org/learn/algae-biotechnology) | -
 [Psicultura em Viveiro Escavado](https://www.youtube.com/playlist?list=PLbLvD8yL_ERU8r6y1WJQNaLVAwsZszmM7) | -
-[Psicultura em Tanques redes](https://www.youtube.com/playlist?list=PLbLvD8yL_ERUX4SK7IVjZpbvRgDDWKJ9j) | -
+[Psicultura em Tanques Redes](https://www.youtube.com/playlist?list=PLbLvD8yL_ERUX4SK7IVjZpbvRgDDWKJ9j) | -
 [Histologia](https://www.youtube.com/playlist?list=PLMxnlLy3zCw9F6IDaQbRaQCE66D3gnhEv) | MOKHTAR, Doaa M. Fish histology: from cells to organs.
 [Oceanografia](https://www.youtube.com/playlist?list=PLAudUnJeNg4vzd59tFSI5UXxh1IBSU5QG) | Garrison, Tom. Fundamentos de Oceanografia.
 [Topografia](https://www.youtube.com/playlist?list=PL1LpxbDN4zzh7XNOU45ruBgl-GjiwQROp) | -
