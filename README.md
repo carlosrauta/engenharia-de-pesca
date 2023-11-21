@@ -38,8 +38,8 @@ Curso | Livro Recomendado
 [Fenômenos de Transporte](https://www.youtube.com/playlist?list=PLxI8Can9yAHeyiCZ3EKZM5TEC4rYU5SEF) | Giorgetti, Marcius. Fundamentos de Fenômenos de Transporte.
 [Introdução à Bioquímica](https://www.youtube.com/playlist?list=PLAudUnJeNg4sJXpT-KXR_vVxG7ipT9e1Z) | NELSON, David L.; COX, Michael M. Princípios de bioquímica de Lehninger.
 [Biotecnologia de Algas](https://www.coursera.org/learn/algae-biotechnology) | -
-[Psicultura em Viveiro Escavado](https://www.youtube.com/playlist?list=PLbLvD8yL_ERU8r6y1WJQNaLVAwsZszmM7) | -
-[Psicultura em Tanques Redes](https://www.youtube.com/playlist?list=PLbLvD8yL_ERUX4SK7IVjZpbvRgDDWKJ9j) | -
+[Piscicultura em Viveiro Escavado](https://www.youtube.com/playlist?list=PLbLvD8yL_ERU8r6y1WJQNaLVAwsZszmM7) | -
+[Piscicultura em Tanques Redes](https://www.youtube.com/playlist?list=PLbLvD8yL_ERUX4SK7IVjZpbvRgDDWKJ9j) | -
 [Histologia](https://www.youtube.com/playlist?list=PLMxnlLy3zCw9F6IDaQbRaQCE66D3gnhEv) | MOKHTAR, Doaa M. Fish histology: from cells to organs.
 [Oceanografia](https://www.youtube.com/playlist?list=PLAudUnJeNg4vzd59tFSI5UXxh1IBSU5QG) | Garrison, Tom. Fundamentos de Oceanografia.
 [Topografia](https://www.youtube.com/playlist?list=PL1LpxbDN4zzh7XNOU45ruBgl-GjiwQROp) | -
