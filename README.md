@@ -48,7 +48,7 @@ Curso | Livro Recomendado
 [Introdução à Estatística](https://www.coursera.org/learn/stanford-statistics) | MORETTIN, Pedro Alberto; BUSSAB, Wilton de Oliveira. Estatística básica.
 [Administração Financeira](https://www.coursera.org/learn/administracao-financeira) | -
 [Pesquisa Operacional](https://www.youtube.com/playlist?list=PLxI8Can9yAHfF7UUE4iyn0ZwKNrkft7nq) | Colin C. Emerson. Pesquisa Operacional: 170 Aplicações em Estratégia, Finanças, Logística, Produção, Marketing e Vendas.
-[Gestão de Projetos de Engenharia](https://www.coursera.org/specializations/engineering-project-management) | -
+[Introdução aos Princípios e Práticas da Gestão De Projetos](https://www.coursera.org/specializations/gestao-de-projetos-introducao-usp) | -
 [Grandes Ecossistemas Marinhos: Avaliação e Gestão](https://www.coursera.org/learn/large-marine-ecosystems) | -
 [Máquinas Térmicas e Motores](https://www.youtube.com/playlist?list=PL2Vvr2Agey6RY-OJEFQJthqZs66MO4ZYX) | -
 [Economia do Meio Ambiente](https://www.youtube.com/@economiadomeioambiente4692/videos) | -
