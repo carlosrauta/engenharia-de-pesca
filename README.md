@@ -47,7 +47,7 @@ Curso | Livro Recomendado
 [Carcinicultura](https://www.youtube.com/playlist?list=PLbLvD8yL_ERViQHtcBis-mGA0n_nticfi) | -
 [Introdução à Estatística](https://www.coursera.org/learn/stanford-statistics) | [MORETTIN, Pedro Alberto; SINGER M. Julio. Estatística e Ciência de dados - versão preliminar.](https://www.ime.usp.br/~pam/cdadosf3.pdf)
 [Administração Financeira](https://www.coursera.org/learn/administracao-financeira) | -
-[Pesquisa Operacional](https://www.youtube.com/playlist?list=PLxI8Can9yAHfF7UUE4iyn0ZwKNrkft7nq) | Colin C. Emerson. Pesquisa Operacional: 170 Aplicações em Estratégia, Finanças, Logística, Produção, Marketing e Vendas.
+[Pesquisa Operacional](https://www.youtube.com/playlist?list=PLxI8Can9yAHfF7UUE4iyn0ZwKNrkft7nq) | BELFIORE, Patrícia; P. FÁVERO Luiz. Pesquisa Operacional para cursos de Engenharia.
 [Introdução aos Princípios e Práticas da Gestão De Projetos](https://www.coursera.org/specializations/gestao-de-projetos-introducao-usp) | -
 [Grandes Ecossistemas Marinhos: Avaliação e Gestão](https://www.coursera.org/learn/large-marine-ecosystems) | -
 [Máquinas Térmicas e Motores](https://www.youtube.com/playlist?list=PL2Vvr2Agey6RY-OJEFQJthqZs66MO4ZYX) | -
