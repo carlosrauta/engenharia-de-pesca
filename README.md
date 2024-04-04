@@ -40,7 +40,6 @@ Curso | Livro Recomendado
 [Biotecnologia de Algas](https://www.coursera.org/learn/algae-biotechnology) | -
 [Piscicultura em Viveiro Escavado](https://www.youtube.com/playlist?list=PLbLvD8yL_ERU8r6y1WJQNaLVAwsZszmM7) | -
 [Piscicultura em Tanques Redes](https://www.youtube.com/playlist?list=PLbLvD8yL_ERUX4SK7IVjZpbvRgDDWKJ9j) | -
-[Histologia](https://www.youtube.com/playlist?list=PLMxnlLy3zCw9F6IDaQbRaQCE66D3gnhEv) | MOKHTAR, Doaa M. Fish histology: from cells to organs.
 [Oceanografia](https://www.youtube.com/playlist?list=PLAudUnJeNg4vzd59tFSI5UXxh1IBSU5QG) | Garrison, Tom. Fundamentos de Oceanografia.
 [Topografia](https://www.youtube.com/playlist?list=PL1LpxbDN4zzh7XNOU45ruBgl-GjiwQROp) | -
 [Pensamento Crítico, Lógica e Argumentação](https://www.coursera.org/learn/pensamento-critico-argumentacao) | Popper, Karl. A lógica da pesquisa científica.
