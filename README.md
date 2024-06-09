@@ -1,5 +1,7 @@
 # Sumario
 
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+
 Inspirado na **[Universidade Brasileira Livre](https://ulivre.dev/)**.
 
 Esse repositório contém conteúdos que seriam vistos em um Curso de Engenharia de Pesca e materiais adicionais que não são comuns de serem ministrados na graduação, mas que são comuns à Engenharia. É voltado para o aluno autodidata, capaz de aprender o material sem a colaboração direta de um professor. Caso não tenha experiência em estudar de forma efetiva, recomendo que assista o curso [Aprendendo a aprender](https://pt.coursera.org/learn/aprender). 
