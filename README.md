@@ -40,8 +40,6 @@ Curso | Livro Recomendado
 [Fenômenos de Transporte](https://www.youtube.com/playlist?list=PLxI8Can9yAHeyiCZ3EKZM5TEC4rYU5SEF) | Giorgetti, Marcius. Fundamentos de Fenômenos de Transporte.
 [Introdução à Bioquímica](https://www.youtube.com/playlist?list=PLAudUnJeNg4sJXpT-KXR_vVxG7ipT9e1Z) | NELSON, David L.; COX, Michael M. Princípios de bioquímica de Lehninger.
 [Biotecnologia de Algas](https://www.coursera.org/learn/algae-biotechnology) | -
-[Piscicultura em Viveiro Escavado](https://www.youtube.com/playlist?list=PLbLvD8yL_ERU8r6y1WJQNaLVAwsZszmM7) | -
-[Piscicultura em Tanques Redes](https://www.youtube.com/playlist?list=PLbLvD8yL_ERUX4SK7IVjZpbvRgDDWKJ9j) | -
 [Oceanografia](https://www.youtube.com/playlist?list=PLAudUnJeNg4vzd59tFSI5UXxh1IBSU5QG) | Garrison, Tom. Fundamentos de Oceanografia.
 [Topografia](https://www.youtube.com/playlist?list=PL1LpxbDN4zzh7XNOU45ruBgl-GjiwQROp) | -
 [Pensamento Crítico, Lógica e Argumentação](https://www.coursera.org/learn/pensamento-critico-argumentacao) | Popper, Karl. A lógica da pesquisa científica.
