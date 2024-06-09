@@ -36,7 +36,6 @@ Curso | Livro Recomendado
 [Climatologia e Metereologia](https://www.youtube.com/playlist?list=PL6Yjyns8Zfk-UHsZfBKvNDc8udW_0bs4R) | -
 [Introdução ao QGIS](https://www.youtube.com/playlist?list=PL551njkDL5YoBNPLTMTBA_LFQBLlA0OIU) | -
 [Limnologia](https://www.youtube.com/playlist?list=PLy2RCEHNDLAIWS6fwAwrWJQq1JXlkyz6k) | -
-[Cálculo Númerico](https://www.youtube.com/playlist?list=PLsfUsqON-YybXUTyvm_xy8J8VpHRvpG_z) | Chapra, Steven C.; Raymond P. Canale. Métodos Numéricos para Engenharia.
 [Fenômenos de Transporte](https://www.youtube.com/playlist?list=PLxI8Can9yAHeyiCZ3EKZM5TEC4rYU5SEF) | Giorgetti, Marcius. Fundamentos de Fenômenos de Transporte.
 [Introdução à Bioquímica](https://www.youtube.com/playlist?list=PLAudUnJeNg4sJXpT-KXR_vVxG7ipT9e1Z) | NELSON, David L.; COX, Michael M. Princípios de bioquímica de Lehninger.
 [Biotecnologia de Algas](https://www.coursera.org/learn/algae-biotechnology) | -
