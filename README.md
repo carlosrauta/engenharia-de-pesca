@@ -46,7 +46,7 @@ Curso | Livro Recomendado
 [Economia Pesqueira](https://www.youtube.com/playlist?list=PLdFE2qy8X8Z_XAHwFmHUt3DLZYUB0qHr7) | -
 [Administração Financeira](https://www.coursera.org/learn/administracao-financeira) | -
 [Pesquisa Operacional](https://www.youtube.com/playlist?list=PLxI8Can9yAHfF7UUE4iyn0ZwKNrkft7nq) | BELFIORE, Patrícia; P. FÁVERO Luiz. Pesquisa Operacional para cursos de Engenharia.
-[Introdução aos Princípios e Práticas da Gestão De Projetos](https://www.coursera.org/specializations/gestao-de-projetos-introducao-usp) | -
+[Introdução aos Princípios e Práticas da Gestão De Projetos](https://www.coursera.org/specializations/gestao-de-projetos-introducao-usp) | TRENTIM, Mario H. Tire esse projeto do papel! Fundamentos da gestão de projetos para descomplicar sua vida. 
 [Grandes Ecossistemas Marinhos: Avaliação e Gestão](https://www.coursera.org/learn/large-marine-ecosystems) | -
 [Máquinas Térmicas e Motores](https://www.youtube.com/playlist?list=PL2Vvr2Agey6RY-OJEFQJthqZs66MO4ZYX) | -
 [Economia do Meio Ambiente](https://www.youtube.com/@economiadomeioambiente4692/videos) | -
