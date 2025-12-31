@@ -25,7 +25,7 @@ Curso | Livro Recomendado
 [Justice - Qual a coisa certa a fazer?](https://www.youtube.com/playlist?list=PLEN09sOf6M1NXe94zC4yggvhi5XYBcALx) | -
 [Química Geral](https://www.youtube.com/playlist?list=PLAudUnJeNg4vPBwTS8TXgo7mp-3cENkPs) | ATKINS, P. W JONES, Loretta. Princípios de química: questionando a vida moderna e o meio ambiente.
 [Cálculo II](https://www.youtube.com/playlist?list=PLxI8Can9yAHeZfF4HwiVmv4D6n3acKLER) | Stewart, James. Cálculo, volume 2.
-[Mecânica Clássica](https://www.youtube.com/playlist?list=PLAudUnJeNg4vmlyuv__uBgdOkzw4VSrcJ) | H. Moysés. Nussenzveig. Curso de física básica, 1: mecânica.
+[Mecânica Clássica](https://www.youtube.com/playlist?list=PLAudUnJeNg4vmlyuv__uBgdOkzw4VSrcJ) | YOUNG, Hugh D.; FREEDMAN, Roger A. Física I: mecânica.
 [Álgebra Linear](https://www.youtube.com/playlist?list=PLxI8Can9yAHdUtWDKtTA9AmuICNyX9EIr) | LAY, David C.; LAY, Steven R.; MCDONALD, Judi J. . Álgebra linear e suas aplicações.
 [Química Orgânica](https://www.youtube.com/playlist?list=PLxI8Can9yAHf0GaPrTFHw3MF19Q53LIZI) | MCMURRY, John. Química orgânica: volume 1. 
 [Programação com Python I](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) | [DOWNEY, Allen B. Pense em Python.](https://penseallen.github.io/PensePython2e/)
