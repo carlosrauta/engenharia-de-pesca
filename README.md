@@ -28,8 +28,7 @@ Curso | Livro Recomendado
 [Mecânica Clássica](https://www.youtube.com/playlist?list=PL7581C21F8ADD6C8E) | YOUNG, Hugh D.; FREEDMAN, Roger A. Física I: mecânica.
 [Álgebra Linear](https://www.youtube.com/playlist?list=PLxI8Can9yAHdUtWDKtTA9AmuICNyX9EIr) | LEON, Steven J. Álgebra linear com aplicações.
 [Química Orgânica](https://www.youtube.com/playlist?list=PLxI8Can9yAHf0GaPrTFHw3MF19Q53LIZI) | MCMURRY, John. Química orgânica: volume 1. 
-[Programação com Python I](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) | [DOWNEY, Allen B. Pense em Python.](https://penseallen.github.io/PensePython2e/)
-[Programação com Python II](https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2) | [DOWNEY, Allen B. Pense em Python.](https://penseallen.github.io/PensePython2e/)
+[Introdução a Programação em C](https://www.youtube.com/playlist?list=PLpaKFn4Q4GMOBAeqC1S5_Fna_Y5XaOQS2) | -
 [Cálculo III](https://www.youtube.com/playlist?list=PLFBA21F349930F92F) | BOYCE, W. E.; DIPRIMA, R. C. Equações diferenciais elementares e problemas de valores de contorno.
 [Zoologia dos Vertebrados](https://www.youtube.com/playlist?list=PLxI8Can9yAHcopx1fQDk5J3ygiJRsYaQp) | -
 [Zoologia dos Invertebrados](https://www.youtube.com/playlist?list=PLxI8Can9yAHcy25cft4jD8tRvHiHuv_pd) | PECHENIK, Jan A. Biologia dos invertebrados.
