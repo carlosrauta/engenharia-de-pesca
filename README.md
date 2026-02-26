@@ -39,7 +39,8 @@ Curso | Livro Recomendado
 [Fenômenos de Transporte](https://www.youtube.com/playlist?list=PLxI8Can9yAHeyiCZ3EKZM5TEC4rYU5SEF) | Giorgetti, Marcius. Fundamentos de Fenômenos de Transporte.
 [Introdução à Bioquímica](https://www.youtube.com/playlist?list=PLAudUnJeNg4sJXpT-KXR_vVxG7ipT9e1Z) | NELSON, David L.; COX, Michael M. Princípios de bioquímica de Lehninger.
 [Biotecnologia de Algas](https://www.coursera.org/learn/algae-biotechnology) | -
-[Oceanografia](https://www.youtube.com/playlist?list=PLAudUnJeNg4vzd59tFSI5UXxh1IBSU5QG) | Garrison, Tom. Fundamentos de Oceanografia.
+[Oceanografia Abiótica](https://www.youtube.com/playlist?list=PLj7U80GWAI-5hX9RaT2FeilFfPzgCfmtV) | Garrison, Tom. Fundamentos de Oceanografia.
+[Oceanografia Biótica](https://www.youtube.com/playlist?list=PLAudUnJeNg4vzd59tFSI5UXxh1IBSU5QG) | Garrison, Tom. Fundamentos de Oceanografia.
 [Topografia](https://www.youtube.com/playlist?list=PL1LpxbDN4zzh7XNOU45ruBgl-GjiwQROp) | -
 [Pensamento Crítico, Lógica e Argumentação](https://www.coursera.org/learn/pensamento-critico-argumentacao) | Popper, Karl. A lógica da pesquisa científica.
 [Probabilidade e Estatística](https://www.youtube.com/playlist?list=PLrOyM49ctTx8HWnxWRBtKrfcuf7ew_3nm) | MONTGOMERY, Douglas C.; RUNGER, George C. Estatística aplicada e probabilidade para engenheiros.
