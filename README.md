@@ -2,7 +2,7 @@
 
 Inspirado na **[Universidade Brasileira Livre](https://ulivre.dev/)**.
 
-Esse repositório contém conteúdos que seriam vistos em um Curso de Engenharia de Pesca e materiais adicionais que não são comuns de serem ministrados na graduação, mas que são comuns à Engenharia. É voltado para o aluno autodidata, capaz de aprender o material sem a colaboração direta de um professor. Caso não tenha experiência em estudar de forma efetiva, recomendo que assista o curso [Aprendendo a aprender](https://pt.coursera.org/learn/aprender). 
+Este repositório contém conteúdos típicos de um curso de Engenharia de Pesca, além de materiais adicionais que não costumam ser abordados na graduação, mas são comuns à formação em Engenharia. É voltado para o aluno autodidata, capaz de aprender o material sem a colaboração direta de um professor. Caso não tenha experiência em estudar de forma eficaz, recomendo assistir ao curso [Aprendendo a aprender](https://pt.coursera.org/learn/aprender). 
 
 ## Como contribuir
 
