@@ -35,7 +35,7 @@ Curso | Livro Recomendado
 [Climatologia e Metereologia](https://www.youtube.com/playlist?list=PL6Yjyns8Zfk-UHsZfBKvNDc8udW_0bs4R) | -
 [Introdução ao QGIS](https://www.youtube.com/playlist?list=PL551njkDL5YoBNPLTMTBA_LFQBLlA0OIU) | -
 [Limnologia](https://www.youtube.com/playlist?list=PLy2RCEHNDLAIWS6fwAwrWJQq1JXlkyz6k) | -
-[Fenômenos de Transporte](https://www.youtube.com/playlist?list=PLJiQyHewGaBRI8zwqapjrpxIXMasw468E) | INCROPERA, Frank P.; BERGMAN, Theodore; LAVINE, Adrienne. Fundamentos de transferência de calor e massa.
+[Fenômenos de Transporte](https://www.youtube.com/playlist?list=PLJiQyHewGaBRI8zwqapjrpxIXMasw468E) | SCHMIDT, Frank W.; HENDERSON, Robert E.; WOLGEMUTH, Carl H. Introdução às ciências térmicas: termodinâmica, mecânica dos fluidos e transferência de calor.
 [Introdução à Bioquímica](https://www.youtube.com/playlist?list=PLAudUnJeNg4sJXpT-KXR_vVxG7ipT9e1Z) | NELSON, David L.; COX, Michael M. Princípios de bioquímica de Lehninger.
 [Biotecnologia de Algas](https://www.coursera.org/learn/algae-biotechnology) | -
 [Oceanografia Abiótica](https://www.youtube.com/playlist?list=PLj7U80GWAI-5hX9RaT2FeilFfPzgCfmtV) | Garrison, Tom. Fundamentos de Oceanografia.
