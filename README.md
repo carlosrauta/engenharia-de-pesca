@@ -22,7 +22,7 @@ Curso | Livro Recomendado
 [Introdução à Engenharia](https://www.youtube.com/playlist?list=PLxI8Can9yAHdXLFldigytpo2v-_xeVH1w) | B. Brockman, Jay. Introdução à Engenharia - Modelagem e Solução de Problemas.  
 [Cálculo I](https://www.youtube.com/playlist?list=PL2D9B691A704C6F7B) | Stewart, James. Cálculo, volume 1. 
 [Ecologia](https://www.youtube.com/playlist?list=PLxI8Can9yAHdcNx2ZVBgz61DTqVBQXGI-) | Ricklefs, Robert E. Economia da Natureza.
-[Justice - Qual a coisa certa a fazer?](https://www.youtube.com/playlist?list=PLEN09sOf6M1NXe94zC4yggvhi5XYBcALx) | -
+[Justice - Qual a coisa certa a fazer? (Ética)](https://www.youtube.com/playlist?list=PLEN09sOf6M1NXe94zC4yggvhi5XYBcALx) | -
 [Química Geral](https://www.youtube.com/playlist?list=PLAudUnJeNg4vPBwTS8TXgo7mp-3cENkPs) | ATKINS, P. W JONES, Loretta. Princípios de química: questionando a vida moderna e o meio ambiente.
 [Cálculo II](https://www.youtube.com/playlist?list=PLxI8Can9yAHeZfF4HwiVmv4D6n3acKLER) | Stewart, James. Cálculo, volume 2.
 [Mecânica Clássica](https://www.youtube.com/playlist?list=PL7581C21F8ADD6C8E) | YOUNG, Hugh D.; FREEDMAN, Roger A. Física I: mecânica.
