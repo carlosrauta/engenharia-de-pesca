@@ -42,7 +42,7 @@ Curso | Livro Recomendado
 [Oceanografia Biótica](https://www.youtube.com/playlist?list=PLAudUnJeNg4vzd59tFSI5UXxh1IBSU5QG) | Garrison, Tom. Fundamentos de Oceanografia.
 [Topografia](https://www.youtube.com/playlist?list=PL1LpxbDN4zzh7XNOU45ruBgl-GjiwQROp) | -
 [Pensamento Crítico, Lógica e Argumentação](https://www.coursera.org/learn/pensamento-critico-argumentacao) | Popper, Karl. A lógica da pesquisa científica.
-[Probabilidade e Estatística](https://www.youtube.com/playlist?list=PLrOyM49ctTx8HWnxWRBtKrfcuf7ew_3nm) | MONTGOMERY, Douglas C.; RUNGER, George C. Estatística aplicada e probabilidade para engenheiros.
+[Probabilidade e Estatística (Estatística Pesqueira I)](https://www.youtube.com/playlist?list=PLrOyM49ctTx8HWnxWRBtKrfcuf7ew_3nm) | MONTGOMERY, Douglas C.; RUNGER, George C. Estatística aplicada e probabilidade para engenheiros.
 [Economia Pesqueira](https://www.youtube.com/playlist?list=PLdFE2qy8X8Z_XAHwFmHUt3DLZYUB0qHr7) | -
 [Administração Financeira](https://www.coursera.org/learn/administracao-financeira) | -
 [Pesquisa Operacional](https://www.youtube.com/playlist?list=PLxI8Can9yAHfF7UUE4iyn0ZwKNrkft7nq) | BELFIORE, Patrícia; P. FÁVERO Luiz. Pesquisa Operacional para cursos de Engenharia.
