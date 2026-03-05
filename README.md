@@ -24,7 +24,7 @@ Curso | Livro Recomendado
 [Ecologia](https://www.youtube.com/playlist?list=PLxI8Can9yAHdcNx2ZVBgz61DTqVBQXGI-) | Ricklefs, Robert E. Economia da Natureza.
 [Justice - Qual a coisa certa a fazer? (Ética)](https://www.youtube.com/playlist?list=PLEN09sOf6M1NXe94zC4yggvhi5XYBcALx) | -
 [Química Geral](https://www.youtube.com/playlist?list=PLAudUnJeNg4vPBwTS8TXgo7mp-3cENkPs) | ATKINS, P. W JONES, Loretta. Princípios de química: questionando a vida moderna e o meio ambiente.
-[Cálculo II](https://www.youtube.com/playlist?list=PLxI8Can9yAHeZfF4HwiVmv4D6n3acKLER) | Stewart, James. Cálculo, volume 2.
+[Cálculo II](https://www.youtube.com/playlist?list=PLrOyM49ctTx9EGYGvXS6KVA9aoB3P4lJD) | Stewart, James. Cálculo, volume 2.
 [Mecânica Clássica](https://www.youtube.com/playlist?list=PL7581C21F8ADD6C8E) | YOUNG, Hugh D.; FREEDMAN, Roger A. Física I: mecânica.
 [Álgebra Linear](https://www.youtube.com/playlist?list=PLxI8Can9yAHdUtWDKtTA9AmuICNyX9EIr) | LEON, Steven J. Álgebra linear com aplicações.
 [Química Orgânica](https://www.youtube.com/playlist?list=PLxI8Can9yAHf0GaPrTFHw3MF19Q53LIZI) | MCMURRY, John. Química orgânica: volume 1. 
