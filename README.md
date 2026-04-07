@@ -39,7 +39,7 @@ Curso | Livro Recomendado
 [Fenômenos de Transporte](https://www.youtube.com/playlist?list=PLJiQyHewGaBRI8zwqapjrpxIXMasw468E) | SCHMIDT, Frank W.; HENDERSON, Robert E.; WOLGEMUTH, Carl H. Introdução às ciências térmicas: termodinâmica, mecânica dos fluidos e transferência de calor.
 [Introdução à Bioquímica](https://www.youtube.com/playlist?list=PLAudUnJeNg4sJXpT-KXR_vVxG7ipT9e1Z) | NELSON, David L.; COX, Michael M. Princípios de bioquímica de Lehninger.
 [Biotecnologia de Algas](https://www.coursera.org/learn/algae-biotechnology) | -
-[Oceanografia Abiótica](https://www.youtube.com/playlist?list=PLj7U80GWAI-5hX9RaT2FeilFfPzgCfmtV) | Garrison, Tom. Fundamentos de Oceanografia.
+[Oceanografia Abiótica](https://www.youtube.com/playlist?list=PL4ockJo9D-hhBCvjE1FyrJJu8ntQQttr5) | Garrison, Tom. Fundamentos de Oceanografia.
 [Oceanografia Biótica](https://www.youtube.com/playlist?list=PLAudUnJeNg4vzd59tFSI5UXxh1IBSU5QG) | Garrison, Tom. Fundamentos de Oceanografia.
 [Topografia](https://www.youtube.com/playlist?list=PL1LpxbDN4zzh7XNOU45ruBgl-GjiwQROp) | -
 [Estrutura e Dimensionamento de Unidades de Propagação](https://www.youtube.com/playlist?list=PLAVxf_3LdS6XOcIqSPWGfsMIvUvG-C9Cj) | -
