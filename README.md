@@ -35,21 +35,27 @@ Curso | Livro Recomendado
 [Climatologia e Metereologia](https://www.youtube.com/playlist?list=PL6Yjyns8Zfk-UHsZfBKvNDc8udW_0bs4R) | -
 [Introdução ao QGIS](https://www.youtube.com/playlist?list=PL551njkDL5YoBNPLTMTBA_LFQBLlA0OIU) | -
 [Limnologia](https://www.youtube.com/playlist?list=PLy2RCEHNDLAIWS6fwAwrWJQq1JXlkyz6k) | -
+[Fundamentos de Química Aquática e suas Aplicações na Engenharia Sanitária e Ambiental](https://www.youtube.com/playlist?list=PLjl3G54ho_Oartrghdbe-PmBqVJ-WKYcx) | -
+[Aquaponia](https://www.youtube.com/playlist?list=PLAVxf_3LdS6Xkm2ra9Hx7sRhvEq2xmCfe) | -
 [Fenômenos de Transporte](https://www.youtube.com/playlist?list=PLJiQyHewGaBRI8zwqapjrpxIXMasw468E) | SCHMIDT, Frank W.; HENDERSON, Robert E.; WOLGEMUTH, Carl H. Introdução às ciências térmicas: termodinâmica, mecânica dos fluidos e transferência de calor.
 [Introdução à Bioquímica](https://www.youtube.com/playlist?list=PLAudUnJeNg4sJXpT-KXR_vVxG7ipT9e1Z) | NELSON, David L.; COX, Michael M. Princípios de bioquímica de Lehninger.
 [Biotecnologia de Algas](https://www.coursera.org/learn/algae-biotechnology) | -
-[Oceanografia Abiótica](https://www.youtube.com/playlist?list=PLj7U80GWAI-5hX9RaT2FeilFfPzgCfmtV) | Garrison, Tom. Fundamentos de Oceanografia.
+[Oceanografia Abiótica](https://www.youtube.com/playlist?list=PL4ockJo9D-hhBCvjE1FyrJJu8ntQQttr5) | Garrison, Tom. Fundamentos de Oceanografia.
 [Oceanografia Biótica](https://www.youtube.com/playlist?list=PLAudUnJeNg4vzd59tFSI5UXxh1IBSU5QG) | Garrison, Tom. Fundamentos de Oceanografia.
 [Topografia](https://www.youtube.com/playlist?list=PL1LpxbDN4zzh7XNOU45ruBgl-GjiwQROp) | -
+[Estrutura e Dimensionamento de Unidades de Propagação](https://www.youtube.com/playlist?list=PLAVxf_3LdS6XOcIqSPWGfsMIvUvG-C9Cj) | -
 [Pensamento Crítico, Lógica e Argumentação](https://www.coursera.org/learn/pensamento-critico-argumentacao) | Popper, Karl. A lógica da pesquisa científica.
 [Probabilidade e Estatística (Estatística Pesqueira I)](https://www.youtube.com/playlist?list=PLrOyM49ctTx8HWnxWRBtKrfcuf7ew_3nm) | MONTGOMERY, Douglas C.; RUNGER, George C. Estatística aplicada e probabilidade para engenheiros.
 [Estatística Experimental (Estatística Pesqueira II)](https://www.youtube.com/playlist?list=PLG_7fFh42E1eBId0vb9HHUQQKpqRKzsbv) | -
+[Sensoriamento Remoto](https://www.youtube.com/playlist?list=PLAVxf_3LdS6VI0ymyW3cgSErrEtsIL-jw) | -
 [Economia Pesqueira](https://www.youtube.com/playlist?list=PLdFE2qy8X8Z_XAHwFmHUt3DLZYUB0qHr7) | -
 [Administração Financeira](https://www.coursera.org/learn/administracao-financeira) | -
 [Pesquisa Operacional](https://www.youtube.com/playlist?list=PLxI8Can9yAHfF7UUE4iyn0ZwKNrkft7nq) | BELFIORE, Patrícia; P. FÁVERO Luiz. Pesquisa Operacional para cursos de Engenharia.
 [Introdução aos Princípios e Práticas da Gestão De Projetos](https://www.coursera.org/specializations/gestao-de-projetos-introducao-usp) | TRENTIM, Mario H. Tire esse projeto do papel! Fundamentos da gestão de projetos para descomplicar sua vida. 
 [Grandes Ecossistemas Marinhos: Avaliação e Gestão](https://www.coursera.org/learn/large-marine-ecosystems) | -
 [Máquinas Térmicas e Motores](https://www.youtube.com/playlist?list=PL2Vvr2Agey6RY-OJEFQJthqZs66MO4ZYX) | -
+[Bombas Centrífugas](https://www.youtube.com/playlist?list=PLcViyA4Fa2zK93LIVKb_wU6N2tyUubFOy) | -
+[Compressores](https://www.youtube.com/playlist?list=PLcViyA4Fa2zKXpDXHVuJzpcUDcpiHR2At) | -
 [Economia do Meio Ambiente](https://www.youtube.com/@economiadomeioambiente4692/videos) | -
 [Genética](https://www.youtube.com/playlist?list=PLxI8Can9yAHcMkgPplY4tRVkTWd11Kukj) | -
 [Parasitologia](https://www.youtube.com/playlist?list=PLxI8Can9yAHcWPK9ePUKu3w-1YHKaO3Kr) | -
