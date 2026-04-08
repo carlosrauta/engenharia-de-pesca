@@ -55,6 +55,7 @@ Curso | Livro Recomendado
 [Grandes Ecossistemas Marinhos: Avaliação e Gestão](https://www.coursera.org/learn/large-marine-ecosystems) | -
 [Máquinas Térmicas e Motores](https://www.youtube.com/playlist?list=PL2Vvr2Agey6RY-OJEFQJthqZs66MO4ZYX) | -
 [Bombas Centrífugas](https://www.youtube.com/playlist?list=PLcViyA4Fa2zK93LIVKb_wU6N2tyUubFOy) | -
+[Compressores](https://www.youtube.com/playlist?list=PLcViyA4Fa2zKXpDXHVuJzpcUDcpiHR2At) | -
 [Economia do Meio Ambiente](https://www.youtube.com/@economiadomeioambiente4692/videos) | -
 [Genética](https://www.youtube.com/playlist?list=PLxI8Can9yAHcMkgPplY4tRVkTWd11Kukj) | -
 [Parasitologia](https://www.youtube.com/playlist?list=PLxI8Can9yAHcWPK9ePUKu3w-1YHKaO3Kr) | -
