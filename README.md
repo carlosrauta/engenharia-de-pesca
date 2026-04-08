@@ -36,6 +36,7 @@ Curso | Livro Recomendado
 [Introdução ao QGIS](https://www.youtube.com/playlist?list=PL551njkDL5YoBNPLTMTBA_LFQBLlA0OIU) | -
 [Limnologia](https://www.youtube.com/playlist?list=PLy2RCEHNDLAIWS6fwAwrWJQq1JXlkyz6k) | -
 [Fundamentos de Química Aquática e suas Aplicações na Engenharia Sanitária e Ambiental](https://www.youtube.com/playlist?list=PLjl3G54ho_Oartrghdbe-PmBqVJ-WKYcx) | -
+[Aquaponia](https://www.youtube.com/playlist?list=PLAVxf_3LdS6Xkm2ra9Hx7sRhvEq2xmCfe) | -
 [Fenômenos de Transporte](https://www.youtube.com/playlist?list=PLJiQyHewGaBRI8zwqapjrpxIXMasw468E) | SCHMIDT, Frank W.; HENDERSON, Robert E.; WOLGEMUTH, Carl H. Introdução às ciências térmicas: termodinâmica, mecânica dos fluidos e transferência de calor.
 [Introdução à Bioquímica](https://www.youtube.com/playlist?list=PLAudUnJeNg4sJXpT-KXR_vVxG7ipT9e1Z) | NELSON, David L.; COX, Michael M. Princípios de bioquímica de Lehninger.
 [Biotecnologia de Algas](https://www.coursera.org/learn/algae-biotechnology) | -
